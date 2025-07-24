@@ -16,8 +16,8 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ronymundackan/CUSAT-CGPA-Calculator.git
-   cd CUSAT-CGPA-Calculator
+   git clone https://github.com/ronymundackan/CUSAT-SGPA-Calculator.git
+   cd CUSAT-SGPA-Calculator
    ```
 
 2. **Install dependencies**
