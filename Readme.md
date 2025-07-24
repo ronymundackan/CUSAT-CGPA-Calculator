@@ -1,24 +1,8 @@
-# 🎓 CUSAT CGPA Calculator
+# 🎓 SOE CUSAT SGPA Calculator
 
-A modern, interactive CGPA calculator specifically designed for students of Cochin University of Science and Technology (CUSAT). This web application helps students calculate their Cumulative Grade Point Average with an intuitive and user-friendly interface. This webapp is hosted on https://soe-cusat-sgpa-calculator.vercel.app
+A modern, interactive CGPA calculator specifically designed for students of School of Engineering, Cochin University of Science and Technology (CUSAT). This web application helps students calculate their Cumulative Grade Point Average with an intuitive and user-friendly interface. This webapp is hosted on https://soe-cusat-sgpa-calculator.vercel.app
 
-## ✨ Features
-
-- **Multi-Department Support**: Covers major engineering departments including:
-  - Computer Science & Engineering (CSE)
-  - Electronics & Communication (ECE)
-  - Mechanical Engineering (ME)
-  - Civil Engineering (CE)
-  - Electrical Engineering (EE)
-  - Safety & Fire Engineering (SFE)
-  - Information Technology (IT)
-
-- **Semester-wise Calculation**: Calculate GPA for individual semesters and cumulative CGPA
-- **Interactive UI**: Modern, responsive design with smooth animations
-- **Real-time Updates**: Instant CGPA calculation as you input grades
-- **Subject Management**: Pre-loaded with department-specific subjects and credit hours
-- **Grade Validation**: Ensures accurate grade entry with proper validation
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+If you wish to host this on your system, follow the steps below
 
 ## 🚀 Getting Started
 
