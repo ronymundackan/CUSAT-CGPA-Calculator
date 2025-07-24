@@ -1,6 +1,6 @@
 # 🎓 CUSAT CGPA Calculator
 
-A modern, interactive CGPA calculator specifically designed for students of Cochin University of Science and Technology (CUSAT). This web application helps students calculate their Cumulative Grade Point Average with an intuitive and user-friendly interface.
+A modern, interactive CGPA calculator specifically designed for students of Cochin University of Science and Technology (CUSAT). This web application helps students calculate their Cumulative Grade Point Average with an intuitive and user-friendly interface. This webapp is hosted on soe-cusat-sgpa-calculator.vercel.app
 
 ## ✨ Features
 
