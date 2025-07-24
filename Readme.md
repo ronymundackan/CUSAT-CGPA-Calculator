@@ -56,8 +56,7 @@ Make sure you have the following installed on your system:
 1. **Select Your Department**: Choose your engineering department from the available options
 2. **Choose Semester**: Select the semester you want to calculate GPA for
 3. **Enter Grades**: Input your grades for each subject (S, A, B, C, D, F)
-4. **View Results**: Your GPA and CGPA will be calculated automatically
-5. **Calculate Multiple Semesters**: Add more semesters to get your cumulative CGPA
+4. **View Results**: Your SGPA will be calculated automatically
 
 ## 🎯 CGPA Calculation
 
