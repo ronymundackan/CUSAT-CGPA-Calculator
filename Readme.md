@@ -55,20 +55,18 @@ Make sure you have the following installed on your system:
 
 1. **Select Your Department**: Choose your engineering department from the available options
 2. **Choose Semester**: Select the semester you want to calculate GPA for
-3. **Enter Grades**: Input your grades for each subject (A+, A, B+, B, C+, C, D, F)
+3. **Enter Grades**: Input your grades for each subject (S, A, B, C, D, F)
 4. **View Results**: Your GPA and CGPA will be calculated automatically
 5. **Calculate Multiple Semesters**: Add more semesters to get your cumulative CGPA
 
 ## 🎯 CGPA Calculation
 
 The application uses the standard CUSAT grading system:
-- **A+**: 10 points
+- **S**: 10 points
 - **A**: 9 points  
-- **B+**: 8 points
-- **B**: 7 points
-- **C+**: 6 points
-- **C**: 5 points
-- **D**: 4 points
+- **B**: 8 points
+- **C**: 7 points
+- **D**: 6 points
 - **F**: 0 points
 
 **Formula**: CGPA = Σ(Grade Points × Credits) / Σ(Credits)
